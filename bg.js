@@ -1,5 +1,6 @@
 const body = document.querySelector("body");
 const IMG_NUMBER = 3;
+//let doneLoading = HTMLImageElement.complete;
 
 function paintImage(imgNumber) {
   const image = new Image();
